@@ -1,5 +1,7 @@
 # How Returning to Pathfinder 2 Feels After Three Years?
 
+*Published: 2026-06-25*
+
 Playing one game for some time and returning to it after several years can be an interesting experience.
 With tabletop role-playing games (TTRPGs), it is much more about people than mechanics for me.
 
