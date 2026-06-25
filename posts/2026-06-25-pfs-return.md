@@ -4,7 +4,8 @@ Playing one game for some time and returning to it after several years can be an
 With tabletop role-playing games (TTRPGs), it is much more about people than mechanics for me.
 
 I have a lot of experience with different TTRPGs.
-And I like oneshots and open-table games. This is where Pathfinder Society was the best option in the 2010s.
+And recently returned to playing them regularly.
+And almost coincidentally chose the updated version of my most-played system.
 
 ## How I started with Pathfinder Society
 
