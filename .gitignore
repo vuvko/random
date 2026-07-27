@@ -1,0 +1,5 @@
+# Source photos — keep only the compressed .webp versions
+*.jpg
+*.JPG
+*.jpeg
+*.JPEG
