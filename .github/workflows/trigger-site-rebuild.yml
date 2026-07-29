@@ -1,0 +1,18 @@
+# Pings the vuvko.net Cloudflare Pages deploy hook whenever content lands on main,
+# so publishing a post rebuilds the site (which re-clones this repo — Option B).
+#
+# Setup: create a Deploy Hook in the Cloudflare Pages project
+#   (Settings -> Builds & deployments -> Deploy hooks), copy the URL, and add it
+#   as a repo secret named CF_PAGES_DEPLOY_HOOK (Settings -> Secrets -> Actions).
+name: Trigger site rebuild
+
+on:
+  push:
+    branches: [main]
+
+jobs:
+  rebuild:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Call Cloudflare Pages deploy hook
+        run: curl -fsSL -X POST "${{ secrets.CF_PAGES_DEPLOY_HOOK }}"
