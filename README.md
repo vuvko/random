@@ -6,6 +6,7 @@ Personal random thought about tabletop RPGs, boardgames, and technology.
 
 | Date | Title |
 |------|-------|
+| 2026-07-31 | [Not All Synthetic Data Is Equally Useful](posts/2026-07-31-not-all-synthetic-data.md) |
 | 2026-07-27 | [ICFP Contest 2026](posts/2026-07-27-icfpc.md) |
 | 2026-07-27 | [Solovki Islands (Part II)](posts/2026-07-27-solovki-part2.md) |
 | 2026-07-18 | [Solovki Islands (Part I)](posts/2026-07-18-solovki-part1.md) |
