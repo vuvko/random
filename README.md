@@ -2,6 +2,8 @@
 
 Personal random thought about tabletop RPGs, boardgames, and technology.
 
+Read it here or on [personal blog](https://vuvko.net/blog/).
+
 ## Posts
 
 | Date | Title |
