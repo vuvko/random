@@ -1,8 +1,8 @@
 # Random Thoughts
 
-Personal random thought about tabletop RPGs, boardgames, and technology.
+Personal random thoughts about tabletop RPGs, boardgames, and technology.
 
-Read it here or on [personal blog](https://vuvko.net/blog/).
+Read it here or on my [personal blog](https://vuvko.net/blog/).
 
 ## Posts
 
