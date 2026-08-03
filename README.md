@@ -8,6 +8,7 @@ Read it here or on my [personal blog](https://vuvko.net/blog/).
 
 | Date | Title |
 |------|-------|
+| 2026-08-03 | [Solovki Islands (Part IV). How to Get Anywhere](posts/2026-08-03-solovki-part4.md) |
 | 2026-08-02 | [Solovki Islands (Part III). Nature](posts/2026-08-02-solovki-part3.md) |
 | 2026-07-31 | [Not All Synthetic Data Is Equally Useful](posts/2026-07-31-not-all-synthetic-data.md) |
 | 2026-07-27 | [ICFP Contest 2026](posts/2026-07-27-icfpc.md) |

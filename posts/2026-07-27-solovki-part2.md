@@ -1,4 +1,4 @@
-# Solovki Islands (part II)
+# Solovki Islands (Part II). Architecture
 
 *Published: 2026-07-27*
 
@@ -69,6 +69,8 @@ Here are some more random photos of the settlement.
 ![](./images/IMG_0294.webp)
 ![](./images/IMG_0303.webp)
 ![](./images/IMG_0330.webp)
+
+**Next:** [Part III. Nature](./2026-08-02-solovki-part3.md)
 
 ---
 

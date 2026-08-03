@@ -1,4 +1,4 @@
-# Solovki Islands
+# Solovki Islands (Part I). Overview
 
 *Published: 2026-07-18*
 
@@ -33,6 +33,8 @@ There are almost no people there except the occasional worker, and you can feel 
 
 I have more photos and thoughts about the trip, and will add them as new posts after I get a good connection outside the islands.
 If you enjoy the northern nature and being the only person in the vicinity, but don't want to live in a tent, I highly suggest coming to this historical place with its deep religious and cultural history.
+
+**Next:** [Part II. Architecture](./2026-07-27-solovki-part2.md)
 
 ---
 

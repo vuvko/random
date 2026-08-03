@@ -1,4 +1,4 @@
-# Solovki Islands (part III)
+# Solovki Islands (Part III). Nature
 
 *Published: 2026-08-02*
 
@@ -90,6 +90,8 @@ As a finishing touch, here are some of the amazing sunsets we were able to captu
 ![](./images/solovki-nature/sunsets/IMG_0172.webp)
 ![](./images/solovki-nature/sunsets/IMG_0340.webp)
 ![](./images/solovki-nature/sunsets/IMG_0356.webp)
+
+**Next:** [Part IV. How to Get Anywhere](./2026-08-03-solovki-part4.md)
 
 ---
 
