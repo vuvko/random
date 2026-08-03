@@ -34,7 +34,7 @@ There is also a tent camp for tourists who don't want to rent and are happy to s
 ![The house where we rented the apartment. It had a separate entrance and was really cosy. Also, all houses on the island have an inactive Russian stove inside. You can tell by their chimneys.](./images/solovki-hiking/IMG_9508.webp)
 
 Almost everything is delivered to the island by sea.
-Local food consists only of a bakery (a good one), berries, and some milk.
+Local food consists only of a bakery (a good one), berries, fish, and some milk.
 So if you want to make your stay a bit cheaper, you can bring your own food and live off gathering berries and mushrooms.
 We gathered so many mushrooms that we brought some back from the archipelago as pickles.
 
