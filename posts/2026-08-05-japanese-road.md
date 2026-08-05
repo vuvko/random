@@ -3,13 +3,13 @@
 *Published: 2026-08-05*
 
 As I live in Almaty and like taking photos of various things, I occasionally hike in the mountains nearby.
-So this post is a short description of one of those places --- the Old Japanese Road.
+So this post is a short description of one of those places — the Old Japanese Road.
 It is a nice hike for anyone who can stay on their feet for several hours.
 
 I went there on the 5th of August, and we had great weather for mountain hiking: not too hot (around 25°C), little Sun, and no rain.
 It is also a great way to escape the heat of the city (it was almost 37°C down there, with much more Sun exposure).
 
-There are several ways to start this hike: two from the north --- [43.12608, 76.91121](https://www.openstreetmap.org/search?lat=43.12608&lon=76.91121&zoom=15#map=15/43.12609/76.91121) is the lower one, with a steep slope, and [43.11627, 76.91741](https://www.openstreetmap.org/search?lat=43.11627&lon=76.91741&zoom=16#map=16/43.11628/76.91741) has a long metal staircase running to the top --- and one from the south, [43.094347, 76.954240](https://www.openstreetmap.org/search?lat=43.094347&lon=76.954240&zoom=17#map=17/43.094351/76.954240), which has the smallest elevation gain.
+There are several ways to start this hike: two from the north — [43.12608, 76.91121](https://www.openstreetmap.org/search?lat=43.12608&lon=76.91121&zoom=15#map=15/43.12609/76.91121) is the lower one, with a steep slope, and [43.11627, 76.91741](https://www.openstreetmap.org/search?lat=43.11627&lon=76.91741&zoom=16#map=16/43.11628/76.91741) has a long metal staircase running to the top — and one from the south, [43.094347, 76.954240](https://www.openstreetmap.org/search?lat=43.094347&lon=76.954240&zoom=17#map=17/43.094351/76.954240), which has the smallest elevation gain.
 This time I chose to start from the southern one, as it is higher and the overall elevation gain is less noticeable.
 
 If you want to get there, notice that there is no public transport to southern part of this trail.
@@ -28,17 +28,17 @@ I have heard it from other hikers and read it in local travel articles,
 but never from a historian, and none of the articles I found cite a document.
 
 The road makes more sense once you notice what it follows and what is near nowadays.
-It runs along the penstock of the second hydroelectric station --- a welded steel pipe
+It runs along the penstock of the second hydroelectric station — a welded steel pipe
 a little over a kilometre long[^1], dropping down the slope to the turbines.
 What I took for mining shafts are, by the better-researched accounts I could find,
-inspection adits for that pipe, driven some 70--80 metres into the rock and now standing in water.
+inspection adits for that pipe, driven some 70–80 metres into the rock and now standing in water.
 The rails are left from the narrow-gauge rig that winched the pipe sections up the slope
 while it was being built.
 So this is a service road for the waterworks, and it was built to be one.
 
 The chronology is the awkward part for the legend.
-There were indeed a lot of Japanese prisoners in Kazakhstan after the war --- around six thousand
-in Almaty, working mostly on public buildings in 1946--47, and the last of them were repatriated by 1950.
+There were indeed a lot of Japanese prisoners in Kazakhstan after the war — around six thousand
+in Almaty, working mostly on public buildings in 1946–47, and the last of them were repatriated by 1950.
 The second hydroelectric station went up in 1959, nearly a decade later.
 
 Decide for yourself whether you believe the legend.
