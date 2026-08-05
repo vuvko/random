@@ -8,6 +8,7 @@ Read it here or on my [personal blog](https://vuvko.net/blog/).
 
 | Date | Title |
 |------|-------|
+| 2026-08-05 | [Where to go in Almaty. Old Japanese Road](posts/2026-08-05-japanese-road.md) |
 | 2026-08-03 | [Solovki Islands (Part IV). How to Get Anywhere](posts/2026-08-03-solovki-part4.md) |
 | 2026-08-02 | [Solovki Islands (Part III). Nature](posts/2026-08-02-solovki-part3.md) |
 | 2026-07-31 | [Not All Synthetic Data Is Equally Useful](posts/2026-07-31-not-all-synthetic-data.md) |
