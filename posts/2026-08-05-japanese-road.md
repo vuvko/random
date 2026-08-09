@@ -6,7 +6,7 @@ As I live in Almaty and like taking photos of various things, I occasionally hik
 So this post is a short description of one of those places — the Old Japanese Road.
 It is a nice hike for anyone who can stay on their feet for several hours.
 
-I went there on the 5th of August, and we had great weather for mountain hiking: not too hot (around 25°C), little Sun, and no rain.
+I went there on the 3rd of August, and we had great weather for mountain hiking: not too hot (around 25°C), little Sun, and no rain.
 It is also a great way to escape the heat of the city (it was almost 37°C down there, with much more Sun exposure).
 
 There are several ways to start this hike: two from the north — [43.12608, 76.91121](https://www.openstreetmap.org/search?lat=43.12608&lon=76.91121&zoom=15#map=15/43.12609/76.91121) is the lower one, with a steep slope, and [43.11627, 76.91741](https://www.openstreetmap.org/search?lat=43.11627&lon=76.91741&zoom=16#map=16/43.11628/76.91741) has a long metal staircase running to the top — and one from the south, [43.094347, 76.954240](https://www.openstreetmap.org/search?lat=43.094347&lon=76.954240&zoom=17#map=17/43.094351/76.954240), which has the smallest elevation gain.
