@@ -1,3 +1,6 @@
+---
+tags: [games, procgen]
+---
 # Procedural Story Generation and Storylets
 
 *Published: 2026-06-30*

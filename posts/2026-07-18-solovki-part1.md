@@ -1,3 +1,6 @@
+---
+tags: [travel, solovki]
+---
 # Solovki Islands (Part I). Overview
 
 *Published: 2026-07-18*

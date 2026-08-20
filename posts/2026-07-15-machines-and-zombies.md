@@ -1,3 +1,6 @@
+---
+tags: [essay]
+---
 # Mindless Machines and Zombies
 
 *Published: 2026-07-15*

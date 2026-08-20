@@ -1,3 +1,6 @@
+---
+tags: [travel, almaty]
+---
 # Where to go in Almaty. Kok Zhailau
 
 *Published: 2026-08-16*

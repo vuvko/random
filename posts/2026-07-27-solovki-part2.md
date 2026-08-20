@@ -1,3 +1,6 @@
+---
+tags: [travel, solovki]
+---
 # Solovki Islands (Part II). Architecture
 
 *Published: 2026-07-27*

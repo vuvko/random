@@ -1,3 +1,6 @@
+---
+tags: [ml]
+---
 # The Seam Is the Label
 
 *Published: 2026-08-09*

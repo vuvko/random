@@ -1,3 +1,6 @@
+---
+tags: [games, procgen]
+---
 # The Oatmeal Problem
 
 *Published: 2026-07-03*

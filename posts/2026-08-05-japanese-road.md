@@ -1,3 +1,6 @@
+---
+tags: [travel, almaty]
+---
 # Where to go in Almaty. Old Japanese Road
 
 *Published: 2026-08-05*

@@ -1,3 +1,6 @@
+---
+tags: [games]
+---
 # How Returning to Pathfinder 2 Feels After Three Years?
 
 *Published: 2026-06-25*

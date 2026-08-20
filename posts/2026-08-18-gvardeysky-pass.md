@@ -1,3 +1,6 @@
+---
+tags: [travel, almaty]
+---
 # Where to go in Almaty. Gvardeysky Pass
 
 *Published: 2026-08-18*

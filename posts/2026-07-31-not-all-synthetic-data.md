@@ -1,3 +1,6 @@
+---
+tags: [ml]
+---
 # Not All Synthetic Data Is Equally Useful
 
 *Published: 2026-07-31*

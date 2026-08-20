@@ -1,3 +1,6 @@
+---
+tags: [essay, programming]
+---
 # Recreating is a Good Teacher
 
 *Published: 2026-06-27*
