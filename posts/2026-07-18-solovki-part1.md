@@ -1,9 +1,8 @@
 ---
+date: 2026-07-18
 tags: [travel, solovki]
 ---
 # Solovki Islands (Part I). Overview
-
-*Published: 2026-07-18*
 
 Some personal travel thoughts.
 

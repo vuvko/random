@@ -1,9 +1,8 @@
 ---
+date: 2026-07-15
 tags: [essay]
 ---
 # Mindless Machines and Zombies
-
-*Published: 2026-07-15*
 
 I've just finished listening to the great series *Supernova in the East* by Dan Carlin.
 I highly recommend it if you want more than an overview of the Asia-Pacific conflict in World War II — not a dry list of events and places, but a sense of what it actually felt like to be there.

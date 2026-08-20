@@ -1,9 +1,8 @@
 ---
+date: 2026-08-09
 tags: [ml]
 ---
 # The Seam Is the Label
-
-*Published: 2026-08-09*
 
 [Last time](./2026-07-31-not-all-synthetic-data.md) I wrote about the "reverse" trick: if you grow a dataset by asking a generator to add glasses to a face, the generator's fingerprint ends up in exactly the images that have glasses, and the model learns "generated means glasses" instead of learning what glasses look like.
 The fix was to immediately ask the generator to take the glasses off again, so that both classes carry the same fingerprint and it stops predicting anything.

@@ -1,9 +1,8 @@
 ---
+date: 2026-08-03
 tags: [travel, solovki]
 ---
 # Solovki Islands (Part IV). How to Get Anywhere
-
-*Published: 2026-08-03*
 
 The final part on traveling on the Solovetsky Islands.
 

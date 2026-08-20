@@ -1,9 +1,8 @@
 ---
+date: 2026-08-05
 tags: [travel, almaty]
 ---
 # Where to go in Almaty. Old Japanese Road
-
-*Published: 2026-08-05*
 
 As I live in Almaty and like taking photos of various things, I occasionally hike in the mountains nearby.
 So this post is a short description of one of those places — the Old Japanese Road.

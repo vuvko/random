@@ -1,9 +1,8 @@
 ---
+date: 2026-06-30
 tags: [games, procgen]
 ---
 # Procedural Story Generation and Storylets
-
-*Published: 2026-06-30*
 
 During one of the game jams I've explored the idea of simple journal generation that would later release as [Signal Lost](https://vuvko.itch.io/signal-lost) jam entry.
 My main touchstone for the jam was the [Godville](https://en.wikipedia.org/wiki/Godville) — a zero-player game, where the player watches after the mythic hero with very limited influence.

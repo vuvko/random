@@ -1,9 +1,8 @@
 ---
+date: 2026-08-16
 tags: [travel, almaty]
 ---
 # Where to go in Almaty. Kok Zhailau
-
-*Published: 2026-08-16*
 
 [Continuing](./2026-08-05-japanese-road.md) on where to hike near Almaty, especially if you are a beginner and enjoy a more relaxed experience.
 

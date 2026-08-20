@@ -1,9 +1,8 @@
 ---
+date: 2026-08-02
 tags: [travel, solovki]
 ---
 # Solovki Islands (Part III). Nature
-
-*Published: 2026-08-02*
 
 More photos and thoughts on traveling on the Solovetsky Islands.
 

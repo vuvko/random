@@ -1,9 +1,8 @@
 ---
+date: 2026-07-03
 tags: [games, procgen]
 ---
 # The Oatmeal Problem
-
-*Published: 2026-07-03*
 
 In the previous [post](./2026-06-30-procgen-stories.md) I've briefly touched the problem of generating a lot of simple templates.
 And making an interesting variety of results out of them is a fool's errand.

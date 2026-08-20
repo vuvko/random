@@ -1,9 +1,8 @@
 ---
+date: 2026-07-27
 tags: [travel, solovki]
 ---
 # Solovki Islands (Part II). Architecture
-
-*Published: 2026-07-27*
 
 More personal travel thoughts in continuation to [part I](./2026-07-18-solovki-part1.md).
 

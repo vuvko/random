@@ -1,9 +1,8 @@
 ---
+date: 2026-07-31
 tags: [ml]
 ---
 # Not All Synthetic Data Is Equally Useful
-
-*Published: 2026-07-31*
 
 It's well known that when it comes to model quality, data is what matters most. So whenever the question comes up of where to get more data — and labeled data at that — generating synthetic data starts to look very attractive.
 

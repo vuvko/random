@@ -1,9 +1,8 @@
 ---
+date: 2026-08-18
 tags: [travel, almaty]
 ---
 # Where to go in Almaty. Gvardeysky Pass
-
-*Published: 2026-08-18*
 
 When I went to [Kok Zhailau](./2026-08-16-kok-zhailau.md) via a different route, I saw an interesting hiking route I had not known about before.
 A loop through Gvardeysky Pass to the [Old Japanese Road](./2026-08-05-japanese-road.md), with a small detour for a great view from Observation Mountain.

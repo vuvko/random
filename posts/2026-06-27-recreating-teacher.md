@@ -1,9 +1,8 @@
 ---
+date: 2026-06-27
 tags: [essay, programming]
 ---
 # Recreating is a Good Teacher
-
-*Published: 2026-06-27*
 
 I was browsing Hacker News and read a short post titled [Stealing is a Skill](https://ben-mini.com/2026/stealing-is-a-skill).
 There was also a small discussion on [Hacker News](https://news.ycombinator.com/item?id=48659165).
