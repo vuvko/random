@@ -8,7 +8,8 @@ Read it here or on my [personal blog](https://vuvko.net/blog/).
 
 | Date | Title |
 |------|-------|
-| 2026-08-18 | [Where to go in Almaty. Gvardeysky Pass](posts/2026-08-18-gvardeysky-pass.m) |
+| 2026-08-20 | [Where to go in Almaty. Köktöbe](posts/2026-08-20-kok-tobe.md) |
+| 2026-08-18 | [Where to go in Almaty. Gvardeysky Pass](posts/2026-08-18-gvardeysky-pass.md) |
 | 2026-08-16 | [Where to go in Almaty. Kok Zhailau](posts/2026-08-16-kok-zhailau.md) |
 | 2026-08-09 | [The Seam Is the Label](posts/2026-08-09-patched-objects.md) |
 | 2026-08-05 | [Where to go in Almaty. Old Japanese Road](posts/2026-08-05-japanese-road.md) |
