@@ -1,6 +1,6 @@
 ---
 date: 2026-08-23
-tags: [game, ttrpg]
+tags: [games, ttrpg]
 description: First impressions, as a player, of a Paragon-based game with a Battle Royale theme.
 ---
 # What to Play. Deathmatch Island

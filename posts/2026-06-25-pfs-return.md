@@ -1,6 +1,6 @@
 ---
 date: 2026-06-25
-tags: [games]
+tags: [games, ttrpg]
 ---
 # How Returning to Pathfinder 2 Feels After Three Years?
 
