@@ -8,6 +8,7 @@ Read it here or on my [personal blog](https://vuvko.net/blog/).
 
 | Date | Title |
 |------|-------|
+| 2026-08-23 | [What to Play. Deathmatch Island](posts/2026-08-23-deathmatch-island.md) |
 | 2026-08-20 | [Where to go in Almaty. Köktöbe](posts/2026-08-20-kok-tobe.md) |
 | 2026-08-18 | [Where to go in Almaty. Gvardeysky Pass](posts/2026-08-18-gvardeysky-pass.md) |
 | 2026-08-16 | [Where to go in Almaty. Kok Zhailau](posts/2026-08-16-kok-zhailau.md) |
