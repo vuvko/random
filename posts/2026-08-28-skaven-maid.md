@@ -10,6 +10,8 @@ Not a blog post today, but an experiment both with the website and with the cont
 tl;dr: there is a new [Gallery](https://vuvko.net/gallery/) section on my website, where I will show more images than in my travel posts — images that don't have a particular narrative beyond being a photo session.
 And you can enjoy the first gallery uploaded — [Skaven Maid](https://vuvko.net/gallery/skaven/).
 
+![One of the images from the gallery. A skaven main sitting near a pole.](https://photos.vuvko.net/cdn-cgi/image/width=1600,format=auto,quality=80,fit=scale-down/skaven/IMG_1276.jpg)
+
 Now, this particular costume, the model, and the place all have a converging story that is not linear in any sense.
 The costume was partially designed for live-action role-playing games a long time ago, and was reimagined on a trip to Bolivia.
 That same costume was presented there and won a prize for best costume at a festival.
