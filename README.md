@@ -8,6 +8,7 @@ Read it here or on my [personal blog](https://vuvko.net/blog/).
 
 | Date | Title |
 |------|-------|
+| 2026-08-28 | [Skaven Maid Gallery](posts/2026-08-28-skaven-maid.md) |
 | 2026-08-26 | [Where to go in Almaty. Big Almaty Lake](posts/2026-08-26-big-almaty-lake.md) |
 | 2026-08-23 | [What to Play. Deathmatch Island](posts/2026-08-23-deathmatch-island.md) |
 | 2026-08-20 | [Where to go in Almaty. Köktöbe](posts/2026-08-20-kok-tobe.md) |
