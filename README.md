@@ -8,6 +8,7 @@ Read it here or on my [personal blog](https://vuvko.net/blog/).
 
 | Date | Title |
 |------|-------|
+| 2026-09-09 | [Derelict Rogue. Day 1](posts/2026-09-09-14drl-day1.md) |
 | 2026-09-03 | [Where to go in Tbilisi. Ninoskhevi Waterfall](posts/2026-09-03-ninoskhevi-waterfall.md) |
 | 2026-08-28 | [Skaven Maid Gallery](posts/2026-08-28-skaven-maid.md) |
 | 2026-08-26 | [Where to go in Almaty. Big Almaty Lake](posts/2026-08-26-big-almaty-lake.md) |
