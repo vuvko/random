@@ -8,6 +8,7 @@ Read it here or on my [personal blog](https://vuvko.net/blog/).
 
 | Date | Title |
 |------|-------|
+| 2026-09-15 | [Derelict Rogue. Final days](posts/2026-09-15-14drl-final-days.md) |
 | 2026-09-11 | [Derelict Rogue. Day 3](posts/2026-09-11-14drl-day3.md) |
 | 2026-09-10 | [Derelict Rogue. Day 2](posts/2026-09-10-14drl-day2.md) |
 | 2026-09-09 | [Derelict Rogue. Day 1](posts/2026-09-09-14drl-day1.md) |
