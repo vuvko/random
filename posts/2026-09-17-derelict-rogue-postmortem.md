@@ -9,6 +9,8 @@ I thought about writing in this post about the many difficulties and lessons I l
 And the final submission was a buggy, sloppy mess, which generally means a lot of novel challenges.
 But that was not what stopped me from completing the game in time.
 
+![The final cover for the submission.](./images/14drl/derelict-rogue-cover.webp)
+
 Instead, I will tell a story that is partly a devlog recap, partly documentation of my tool usage and partly a compilation of interesting AI agent behaviours.
 
 ## Creation recap
